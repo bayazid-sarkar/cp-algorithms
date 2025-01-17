@@ -128,6 +128,9 @@ void dfs(int v) {
 
 ## Practice Problems
 
+* [Codeforces: Find the Permutation](https://codeforces.com/problemset/problem/2056/B)
+* [Codeforces: Forever Winter](https://codeforces.com/problemset/problem/1829/F)
+* [Codeforces: Anji's Binary Tree](https://codeforces.com/problemset/problem/1900/C)
 * [SPOJ: ABCPATH](http://www.spoj.com/problems/ABCPATH/)
 * [SPOJ: EAGLE1](http://www.spoj.com/problems/EAGLE1/)
 * [Codeforces: Kefa and Park](http://codeforces.com/problemset/problem/580/C)
